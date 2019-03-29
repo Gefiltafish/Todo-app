@@ -1,0 +1,25 @@
+{
+  "name": "salt-winter19-todo",
+  "version": "1.0.0",
+  "description": "## Salt ToDo",
+  "main": ".eslintrc.js",
+  "dependencies": {},
+  "devDependencies": {
+  "eslint-config-airbnb-base": "^13.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ./js/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saltsthlm/salt-winter19-todo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saltsthlm/salt-winter19-todo/issues"
+  },
+  "homepage": "https://github.com/saltsthlm/salt-winter19-todo#readme"
+}
